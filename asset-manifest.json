@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/level4-capstone1/static/css/main.a617e044.chunk.css",
-    "main.js": "/level4-capstone1/static/js/main.f278e878.chunk.js",
-    "main.js.map": "/level4-capstone1/static/js/main.f278e878.chunk.js.map",
+    "main.js": "/level4-capstone1/static/js/main.f6ff3a8b.chunk.js",
+    "main.js.map": "/level4-capstone1/static/js/main.f6ff3a8b.chunk.js.map",
     "runtime-main.js": "/level4-capstone1/static/js/runtime-main.53e22be5.js",
     "runtime-main.js.map": "/level4-capstone1/static/js/runtime-main.53e22be5.js.map",
-    "static/js/2.b9fc989b.chunk.js": "/level4-capstone1/static/js/2.b9fc989b.chunk.js",
-    "static/js/2.b9fc989b.chunk.js.map": "/level4-capstone1/static/js/2.b9fc989b.chunk.js.map",
+    "static/js/2.0ac12500.chunk.js": "/level4-capstone1/static/js/2.0ac12500.chunk.js",
+    "static/js/2.0ac12500.chunk.js.map": "/level4-capstone1/static/js/2.0ac12500.chunk.js.map",
     "static/js/3.24a3cc29.chunk.js": "/level4-capstone1/static/js/3.24a3cc29.chunk.js",
     "static/js/3.24a3cc29.chunk.js.map": "/level4-capstone1/static/js/3.24a3cc29.chunk.js.map",
     "index.html": "/level4-capstone1/index.html",
     "static/css/main.a617e044.chunk.css.map": "/level4-capstone1/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.b9fc989b.chunk.js.LICENSE.txt": "/level4-capstone1/static/js/2.b9fc989b.chunk.js.LICENSE.txt",
+    "static/js/2.0ac12500.chunk.js.LICENSE.txt": "/level4-capstone1/static/js/2.0ac12500.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/level4-capstone1/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.53e22be5.js",
-    "static/js/2.b9fc989b.chunk.js",
+    "static/js/2.0ac12500.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.f278e878.chunk.js"
+    "static/js/main.f6ff3a8b.chunk.js"
   ]
 }
